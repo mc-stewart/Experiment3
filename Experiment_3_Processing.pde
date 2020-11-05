@@ -5,8 +5,8 @@ By Mairead Stewart
 For DIGF 6037 - Creation & Computation
 November 6, 2020
 
-Sine wave code from https://processing.org/reference/libraries/sound/Sound_volume_.html
-Receiving Arduino code from https://github.com/DigitalFuturesOCADU/CC2020
+Sine wave code based on code from https://processing.org/reference/libraries/sound/Sound_volume_.html
+Receiving Arduino code from Creation & Computation example file: https://github.com/DigitalFuturesOCADU/CC2020
 */
 
 import processing.serial.*;
