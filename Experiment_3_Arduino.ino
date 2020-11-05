@@ -5,7 +5,7 @@ By Mairead Stewart
 For DIGF 6037 - Creation & Computation
 November 6, 2020
 
-Sending pitch and roll code from https://github.com/DigitalFuturesOCADU/CC2020
+Sending pitch and roll code from Creation & Computation example file: https://github.com/DigitalFuturesOCADU/CC2020
 */
 
 int ledPin1 = 13;
